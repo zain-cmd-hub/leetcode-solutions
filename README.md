@@ -30,6 +30,7 @@ My LeetCode solutions for Data Structures, Algorithms, and Coding Interview Prep
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zain-cmd-hub/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/zain-cmd-hub/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/zain-cmd-hub/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
