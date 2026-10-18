@@ -21,6 +21,7 @@ My LeetCode solutions for Data Structures, Algorithms, and Coding Interview Prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/zain-cmd-hub/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/zain-cmd-hub/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
